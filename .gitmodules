@@ -7,3 +7,9 @@
 [submodule "Labs/guiao-de-programacao-funcional-DaniloMicael"]
 	path = Labs/guiao-de-programacao-funcional-DaniloMicael
 	url = https://github.com/detiuaveiro/guiao-de-programacao-funcional-DaniloMicael
+[submodule "Labs/ia2025-tpi-1-DaniloMicael"]
+	path = Labs/ia2025-tpi-1-DaniloMicael
+	url = https://github.com/detiuaveiro/ia2025-tpi-1-DaniloMicael
+[submodule "Labs/ia2024-tpg-112981_113384_114514"]
+	path = Labs/ia2024-tpg-112981_113384_114514
+	url = https://github.com/detiuaveiro/ia2024-tpg-112981_113384_114514
