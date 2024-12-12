@@ -1,0 +1,9 @@
+[submodule "Labs/guiao-sobre-pesquisa-DaniloMicael"]
+	path = Labs/guiao-sobre-pesquisa-DaniloMicael
+	url = https://github.com/detiuaveiro/guiao-sobre-pesquisa-DaniloMicael
+[submodule "Labs/guiao-rc-DaniloMicael"]
+	path = Labs/guiao-rc-DaniloMicael
+	url = https://github.com/detiuaveiro/guiao-rc-DaniloMicael
+[submodule "Labs/guiao-de-programacao-funcional-DaniloMicael"]
+	path = Labs/guiao-de-programacao-funcional-DaniloMicael
+	url = https://github.com/detiuaveiro/guiao-de-programacao-funcional-DaniloMicael
