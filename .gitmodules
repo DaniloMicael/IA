@@ -13,3 +13,6 @@
 [submodule "Labs/ia2024-tpg-112981_113384_114514"]
 	path = Labs/ia2024-tpg-112981_113384_114514
 	url = https://github.com/detiuaveiro/ia2024-tpg-112981_113384_114514
+[submodule "Labs/tpi-2-2025-DaniloMicael"]
+	path = Labs/tpi-2-2025-DaniloMicael
+	url = https://github.com/detiuaveiro/tpi-2-2025-DaniloMicael
